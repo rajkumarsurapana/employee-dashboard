@@ -1,16 +1,100 @@
-# React + Vite
+# Employee Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and modern **Employee Management Dashboard** built using **React + Vite**.  
+As a fresher frontend developer, I created this project to learn and practice:
 
-Currently, two official plugins are available:
+✔ React components  
+✔ State management using useState  
+✔ Routing using React Router  
+✔ Charts using Recharts  
+✔ Form handling  
+✔ Search and filter functionality  
+✔ Responsive UI design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Project Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📌 Dashboard
+- Total Employees  
+- New Joiners  
+- Employees on Leave  
+- Total Departments  
+- Employee Growth Chart (Jan–Dec)  
+- Department-wise Employee Count Chart  
 
-## Expanding the ESLint configuration
+### 📌 Employees Page
+- View all employees  
+- Add Employee  
+- Delete Employee  
+- Search employees  
+- Filter by department  
+- Filter by leave status  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **Recharts (Charts)**
+- **React Router**
+- **CSS (Custom styling)**
+
+---
+
+## 📂 Folder Structure (Simple Overview)
+
+src/
+├── components/ → Reusable UI components
+├── Pages/ → Dashboard & Employees pages
+├── App.jsx → Main application
+├── main.jsx → Entry point
+├── App.css → Main styling
+└── index.css → Base styling
+
+
+---
+
+## 📸 Screenshots (Add your images here)
+
+
+
+assets/screenshots/dashboard.png
+assets/screenshots/employees.png
+
+
+---
+
+## 🎯 What I Learned as a Fresher
+
+- How to build a real dashboard UI  
+- How to manage state and pass props  
+- How to create charts using Recharts  
+- How to handle forms in React  
+- How to structure a React project  
+- How to upload a project to GitHub  
+
+---
+
+## 🚀 How to Run This Project in Your System
+
+
+
+npm install
+npm run dev
+
+
+---
+
+## 🙌 About Me
+
+I am **Rajkumar Surapana**, a fresher passionate about:
+
+- Frontend Development  
+- React  
+- UI/UX  
+- Building real-time projects  
+
+If you like this project, feel free to connect!  
